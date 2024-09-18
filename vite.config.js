@@ -8,7 +8,6 @@ import IconsResolver from 'unplugin-icons/resolver';
 import { defineConfig } from 'vite';
 import { ElementPlusResolver } from 'unplugin-vue-components/resolvers';
 import vitePluginBundleObfuscator from 'vite-plugin-bundle-obfuscator';
-import {VitePWA} from "vite-plugin-pwa";
 
 
 export default defineConfig({
